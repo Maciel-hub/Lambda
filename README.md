@@ -18,7 +18,7 @@ Retornar a lista de temperaturas convertidas.
 Uso
 A função Lambda pode ser invocada enviando um evento com a seguinte estrutura:
 
-##JSON
+## json
 ```
 {
   "temperatures": [25, 30, 15, 10]
@@ -58,6 +58,3 @@ Verifique se o código fonte está livre de vulnerabilidades conhecidas e siga a
 <p display="inline-block">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png" alt="aws-logo"/></p>
-
-## Running
-Lambda Running
