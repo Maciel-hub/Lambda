@@ -1,7 +1,4 @@
-# Lambda Coversor de Temperatura
-<h1 align="center">Article Model</h1>
-<p align="center"><i>Repositório para versionamento e documentação do projeto utilizado durante a série de artigos no GitHub.</i></p>
-
+# Lambda, Conversor de Temperaturas de Celsius para Fahrenheit
 <p align="center"><i>Aluno: Guilherme de Oliveira Souza RA: 1006</i></p>
 
 <p align="center"><i>Link da AWS: https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/InversorTemperatura?tab=code</i></p>
