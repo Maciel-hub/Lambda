@@ -6,10 +6,6 @@
 
 <p align="center"><i>Link da AWS: https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/functions/InversorTemperatura?tab=code</i></p>
 
-##  Conversor de Temperaturas de Celsius para Fahrenheit utilizando Função Lambda
-
-Este é um projeto que implementa uma função Lambda para converter uma lista de temperaturas de Celsius para Fahrenheit. A função Lambda foi criada em um provedor de cloud escolhido, neste caso, a AWS, e utiliza a linguagem Python. A integração com o GitHub permite que o código fonte da função e a documentação relacionada sejam acessados publicamente. A documentação detalha a funcionalidade da Lambda, suas dependências, instruções para execução e testes, além de considerações de segurança. A conversão de temperaturas é realizada de forma simples e eficiente, proporcionando uma solução prática e escalável para esse tipo de tarefa.
-
 ##  Conversor de Temperaturas de Celsius para Fahrenheit
 Uma função Lambda para converter uma lista de temperaturas de Celsius para Fahrenheit.
 
