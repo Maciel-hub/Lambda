@@ -32,13 +32,14 @@ A função Lambda não possui dependências externas. Ela utiliza apenas as bibl
 ##  Instruções para Execução
 Para executar a função Lambda:
 
-Acesse o Console AWS Lambda.
+Crie uma função Lambda no provedor de cloud escolhido.
 Faça o upload do código fonte (lambda_function.py) para a função Lambda.
 Configure a função Lambda para invocar a função lambda_handler no arquivo lambda_function.py como o ponto de entrada.
 Defina as permissões necessárias para a função Lambda acessar outros serviços, se necessário.
 Salve as configurações e teste a função Lambda.
-Teste
-Você pode testar a função Lambda utilizando o Console AWS Lambda ou invocando a função através de um evento programático.
+
+### Teste
+Você pode testar a função Lambda utilizando o Console de Gerenciamento do provedor de cloud escolhido ou invocando a função através de um evento programático.
 
 Ao fornecer a lista de temperaturas em Celsius, a função Lambda retornará a lista de temperaturas convertidas em Fahrenheit.
 
